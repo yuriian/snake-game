@@ -1,0 +1,9 @@
+body {
+  background: rgb(78, 78, 78);
+}
+
+#canvas {
+  /* width: 500px;
+  height: 500px; */
+  background: #000;
+}
